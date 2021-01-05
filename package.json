@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@react-native-community/async-storage": "react-native-community/async-storage",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "eslint-config-prettier": "^6.7.0",
     "eslint-plugin-prettier": "^3.1.1",
     "immer": "^5.0.0",
